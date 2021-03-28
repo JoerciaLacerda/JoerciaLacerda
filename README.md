@@ -1,9 +1,9 @@
 ### Olá! Eu sou Joercia Lacerda! :smile:
 _________________________________________________________________________________________________________________________________________________________________________
 
-Paraibana natural de João Pessoa, atualmente residindo na cidade de Cajazeiras.
-:mortar_board: Pedagoga formada pela UFPB (Universidade Federal da Paraíba), não atuante no momento.
-Agora me dedico a uma nova formação buscando novas possibilidades em minha carreira profissional.
+Paraibana natural de João Pessoa, atualmente residindo na cidade de Cajazeiras.<br>
+:mortar_board: Pedagoga formada pela UFPB (Universidade Federal da Paraíba), não atuante no momento.<br>
+Agora me dedico a uma nova formação buscando novas possibilidades em minha carreira profissional.<br>
 :books: Graduanda do Curso Análise e Desenvolvimento de Sistemas - IFPB
 
 _________________________________________________________________________________________________________________________________________________________________________
@@ -16,5 +16,3 @@ ________________________________________________________________________________
   
 <a target="_blank" href="mailto:joercia.lacerda@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  
-  ![](https://komarev.com/ghpvc/?username=JoerciaLacerda&color=blue&style=flat

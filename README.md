@@ -4,7 +4,7 @@ ________________________________________________________________________________
 Paraibana natural de João Pessoa, atualmente residindo na cidade de Cajazeiras.<br>
 :mortar_board: Pedagoga formada pela UFPB (Universidade Federal da Paraíba), não atuante no momento.<br>
 Agora me dedico a uma nova formação buscando novas possibilidades em minha carreira profissional.<br>
-:books: Graduanda do Curso Análise e Desenvolvimento de Sistemas - IFPB
+:books: Graduanda do Curso Análise e Desenvolvimento de Sistemas - IFPB (Instituto Federal da Paraíba)
 
 _________________________________________________________________________________________________________________________________________________________________________
 
